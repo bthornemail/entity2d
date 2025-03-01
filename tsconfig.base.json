@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "strict": true, // Enable strict type-checking options
+    "strictNullChecks": true,
+    "esModuleInterop": true, // Compatibility with CommonJS modules
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "noUnusedLocals": true,
+    "skipLibCheck": true, // Skip type checking for declaration files
+    "sourceMap": true, // Include source maps for debugging
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true, // Enables importing JSON files
+    "allowSyntheticDefaultImports": true, // Supports default imports from CommonJS modules
+    "jsx": "react-jsx",
+  }
+}

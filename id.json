@@ -1,0 +1,16 @@
+{
+  "options": {
+    "type": "mixed",
+    "multi": false,
+    "allowSelfLoops": true
+  },
+  "attributes": {
+    "extendedKey": "xprvA34iUpzVrjuSSc2HE4vir2hU7rMfnwWm9aJ61rEh6GWQqksbUpYGuj7jXhEp5n9Grq1vN8vijE2G3uX46bnNjQxkuW7eVqGJPF5yBVEsyJJ",
+    "address": "0xe29e850f8E0B12F759c2ce092c59c4d0B62F534A",
+    "index": 0,
+    "depth": 5,
+    "path": "m/44'/60'/0'/0/0"
+  },
+  "nodes": [],
+  "edges": []
+}

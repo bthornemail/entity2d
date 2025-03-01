@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    // "rootDir": "src/server",
+    "outDir": "dist", // Compiled output folder
+    "target": "ES2020", // or a compatible target for your use case
+    "module": "CommonJS", // Retaining CommonJS for server-side
+    "moduleResolution": "node" // Use node module resolution for server-side
+  },
+  // "include": ["src/server/**/*"], // Files to include
+  "exclude": ["node_modules","public","./test","./bin","dist"] // Exclude these folders
+}

@@ -1,0 +1,12 @@
+{
+  "name": "id2d",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.13.5",
+    "graphology": "^0.26.0",
+    "graphology-types": "^0.24.8",
+    "mqtt": "^5.10.4"
+  }
+}
